@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Marisa! A partir de hoje não compro mais pipocas nem chupas para ninguém!</h1>
+    return <h1>Marisa! A partir de hoje não compro mais pipocas nem chupas para ninguém!😮‍💨</h1>
 }
 
 export default Home;
